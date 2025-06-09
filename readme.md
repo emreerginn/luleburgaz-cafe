@@ -32,6 +32,10 @@ Bu proje, HTML, CSS ve Bootstrap kullanılarak hazırlanmış basit ama profesyo
 
 3. `index.html` dosyasını tarayıcıda aç ve gezinmeye başla.
 
+## 🌐 Canlı Demo
+Projenin canlı halini buradan görebilirsiniz:  
+🔗 [Lüleburgaz Cafe Websitesi](https://emreerginn.github.io/luleburgaz-cafe/)
+
 ---
 
 ## 👤 Geliştirici
